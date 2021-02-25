@@ -1,0 +1,8 @@
+name: Mudmessages
+version: @version@
+main: uk.co.breadhub.mudmessages.MudMessages
+api-version: 1.16
+prefix: hot
+load: STARTUP
+authors: [ slicedbread ]
+description: hot
